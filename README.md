@@ -5,7 +5,7 @@
 
 - Data colletion [ O ] // need more, but it's ok
 
-- Preprocess [ X ]
+- Preprocess [ O ]
 
 - Model Selection [ X ]
 
